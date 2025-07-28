@@ -5,9 +5,11 @@
 <!-- BIO -->
 <div align="center">
 
-- 🎓 Estudante de Análise de Dados
-- 💼 Em busca de oportunidades na área de Data Analytics
-- 🧠 Curiosa e sempre aprendendo
+🎓 Estudante de Análise de Dados
+
+💼 Em busca de oportunidades na área de Data Analytics
+
+🧠 Curiosa e sempre aprendendo
 
 </div>
 
