@@ -5,9 +5,9 @@
 <!-- BIO -->
 <div align="center">
 
-👩‍💻 Estudando e desenvolvendo habilidades em programação e tecnologia.  
-🎓 Buscando crescer como profissional de TI e compartilhar o que estou aprendendo.  
-📈 Em constante evolução e aberta a novos desafios!
+- 🎓 Estudante de Análise de Dados
+- 💼 Em busca de oportunidades na área de Data Analytics
+- 🧠 Curiosa e sempre aprendendo
 
 </div>
 
