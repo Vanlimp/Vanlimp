@@ -18,7 +18,7 @@
 <br>
 <div align="center">
   <h3>📲 Me encontre aqui</h3>
-  <a href="www.linkedin.com/in/vanessa-lima-2503b178" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vanessa-lima-2503b178/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href = "mailto:van.limap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
