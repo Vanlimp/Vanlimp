@@ -51,7 +51,8 @@
 <p align="center">
 
  <a href = "https://www.maismulheres.tech/certificates/suh7lw8hwn"><img width="90" height="55" alt="Captura de tela 2025-08-19 214106" src="https://github.com/user-attachments/assets/a2dbbe4f-050f-48d7-85f6-b9e4cb13078e"><a/>
- 
+ <a href = "https://www.maismulheres.tech/certificates/jm2yxmvzky"><img width="208" height="60" alt="Captura de tela 2025-08-19 215818" src="https://github.com/user-attachments/assets/5dcd2d31-0d5a-4394-910e-e37d7a3c74d3"><a/>
+
 </p>
 
 
