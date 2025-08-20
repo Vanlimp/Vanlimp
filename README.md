@@ -47,6 +47,11 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-46B3B9?style=for-the-badge&logoColor=white"/>
 
+<h4 align="center">📚 Certificados</h4>
+<p align="center">
+
+ <a href = "https://www.maismulheres.tech/certificates/suh7lw8hwn"><img width="90" height="55" alt="Captura de tela 2025-08-19 214106" src="https://github.com/user-attachments/assets/a2dbbe4f-050f-48d7-85f6-b9e4cb13078e"><a/>
+ 
 </p>
 
 
